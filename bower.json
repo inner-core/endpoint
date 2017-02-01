@@ -1,0 +1,30 @@
+{
+  "name": "EndPoint",
+  "homepage": "http://www.adaptdev.ph",
+  "authors": [
+    "nerdmonkey <dev@adaptdev.ph>"
+  ],
+  "description": "An open source dashboard which is based on a CSS framework named Bulma",
+  "main": "index.html",
+  "keywords": [
+    "dashboard",
+    "backend",
+    "css",
+    "html",
+    "js",
+    "responsive",
+    "bulma"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bulma": "^0.3.1",
+    "jquery": "^3.1.1"
+  }
+}
